@@ -28,17 +28,17 @@ description_footer: 我其实真不知道应该给这里填些什么
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: S #hygblog
+# duoshuo_shortname: xyao #hygblog
 # disqus_shortname: #gaohaoyang
 # using Gitalk
-# gitalk:
-#   enable: true    #是否开启Gitalk评论
-#  clientID: 52bbb620d9680fd85254                            #生成的clientID
-#  clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
-#  repo: Sayai.github.io    #仓库名称
-#  owner: Sayai    #github用户名
-#  admin: Sayai
-#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: bc6812da4f28941a86a9                            #生成的clientID
+  clientSecret: 5cd4fddcefca18188653f4d17cc9d23fce5d6619    #生成的clientSecret
+  repo: Sayai.github.io    #仓库名称
+  owner: Sayai    #github用户名
+  admin: Sayai
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
