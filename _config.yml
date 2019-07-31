@@ -31,21 +31,21 @@ description_footer: 我其实真不知道应该给这里填些什么
 # duoshuo_shortname: xyao #hygblog
 # disqus_shortname: #gaohaoyang
 # using Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 52bbb620d9680fd85254                            #生成的clientID
-  clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
-  repo: Sayai.github.io    #仓库名称
-  owner: Sayai    #github用户名
-  admin: Sayai
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+# gitalk:
+#   enable: true    #是否开启Gitalk评论
+#  clientID: 52bbb620d9680fd85254                            #生成的clientID
+#  clientSecret: d92cec378527800b0816d1bdd26dc71eb5dd0ccd    #生成的clientSecret
+#  repo: Sayai.github.io    #仓库名称
+#  owner: Sayai    #github用户名
+#  admin: Sayai
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 baidu_tongji_id: 22762fdefc1ad3cc991efdf69a0ec440
-google_analytics_id: UA-126298955-1 # google 分析追踪id
+# google_analytics_id: UA-126298955-1 # google 分析追踪id
 ga_domain: auto
 
 friends: [
