@@ -3,35 +3,35 @@ layout:     post
 title:      Markdown Beginner
 subtitle:   
 date:       2018-09-25
-author:     Xin YAO
+author:     Sayai
 catalog: true
 tags:
     - Markdown
 ---
 <!-- MarkdownTOC -->
 
-- [前言](#%E5%89%8D%E8%A8%80)
-    - [Tools](#tools)
+- [前言](#%e5%89%8d%e8%a8%80)
+  - [Tools](#tools)
 - [Markdown: Syntax](#markdown-syntax)
-    - [目录](#%E7%9B%AE%E5%BD%95)
-    - [标题](#%E6%A0%87%E9%A2%98)
-    - [列表](#%E5%88%97%E8%A1%A8)
-        - [无序](#%E6%97%A0%E5%BA%8F)
-        - [有序](#%E6%9C%89%E5%BA%8F)
-        - [嵌套列表](#%E5%B5%8C%E5%A5%97%E5%88%97%E8%A1%A8)
-    - [引用](#%E5%BC%95%E7%94%A8)
-    - [图片](#%E5%9B%BE%E7%89%87)
-    - [链接](#%E9%93%BE%E6%8E%A5)
-    - [索引链接](#%E7%B4%A2%E5%BC%95%E9%93%BE%E6%8E%A5)
-    - [本身就是链接](#%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E9%93%BE%E6%8E%A5)
-    - [分割线](#%E5%88%86%E5%89%B2%E7%BA%BF)
-    - [表格](#%E8%A1%A8%E6%A0%BC)
-    - [代码块](#%E4%BB%A3%E7%A0%81%E5%9D%97)
-    - [转义](#%E8%BD%AC%E4%B9%89)
-    - [Others](#others)
-        - [粗体](#%E7%B2%97%E4%BD%93)
-        - [斜体](#%E6%96%9C%E4%BD%93)
-        - [字体, 字号, 和颜色](#%E5%AD%97%E4%BD%93-%E5%AD%97%E5%8F%B7-%E5%92%8C%E9%A2%9C%E8%89%B2)
+  - [目录](#%e7%9b%ae%e5%bd%95)
+  - [标题](#%e6%a0%87%e9%a2%98)
+  - [列表](#%e5%88%97%e8%a1%a8)
+    - [无序](#%e6%97%a0%e5%ba%8f)
+    - [有序](#%e6%9c%89%e5%ba%8f)
+    - [嵌套列表](#%e5%b5%8c%e5%a5%97%e5%88%97%e8%a1%a8)
+  - [引用](#%e5%bc%95%e7%94%a8)
+  - [图片](#%e5%9b%be%e7%89%87)
+  - [链接](#%e9%93%be%e6%8e%a5)
+  - [索引链接](#%e7%b4%a2%e5%bc%95%e9%93%be%e6%8e%a5)
+  - [本身就是链接](#%e6%9c%ac%e8%ba%ab%e5%b0%b1%e6%98%af%e9%93%be%e6%8e%a5)
+  - [分割线](#%e5%88%86%e5%89%b2%e7%ba%bf)
+  - [表格](#%e8%a1%a8%e6%a0%bc)
+  - [代码块](#%e4%bb%a3%e7%a0%81%e5%9d%97)
+  - [转义](#%e8%bd%ac%e4%b9%89)
+  - [Others](#others)
+    - [粗体](#%e7%b2%97%e4%bd%93)
+    - [斜体](#%e6%96%9c%e4%bd%93)
+    - [字体, 字号, 和颜色](#%e5%ad%97%e4%bd%93-%e5%ad%97%e5%8f%b7-%e5%92%8c%e9%a2%9c%e8%89%b2)
 - [Reference](#reference)
 
 <!-- /MarkdownTOC -->

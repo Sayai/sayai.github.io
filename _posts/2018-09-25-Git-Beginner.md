@@ -3,7 +3,7 @@ layout:     post
 title:      Git Beginner
 subtitle:   History Blogs @ 2015/10/1
 date:       2018-09-25
-author:     Xin YAO
+author:     Sayai
 catalog: true
 tags:
     - git
@@ -12,20 +12,18 @@ tags:
 <!-- MarkdownTOC -->
 
 - [What is a git](#what-is-a-git)
-- [Preparation](#preparation)
   - [History](#history)
   - [Install](#install)
-  - [configuration](#configuration)
 - [Begin](#begin)
   - [init the git](#init-the-git)
   - [stream](#stream)
 - [File Operations](#file-operations)
-  - [Add \(git status to check\)](#add-git-status-to-check)
-  - [Remove\(git status to check\)](#removegit-status-to-check)
-  - [Rename\(git status to check\)](#renamegit-status-to-check)
+  - [Add (git status to check)](#add-git-status-to-check)
+  - [Remove(git status to check)](#removegit-status-to-check)
+  - [Rename(git status to check)](#renamegit-status-to-check)
 - [Rollback](#rollback)
   - [git diff to check to change](#git-diff-to-check-to-change)
-  - [Warning](#git reset)
+  - [Warning [git reset]](#warning-git-reset)
   - [.gitignore](#gitignore)
   - [.gitkeep](#gitkeep)
   - [Other options](#other-options)
@@ -34,7 +32,7 @@ tags:
   - [operations](#operations)
   - [Merge](#merge)
   - [stash](#stash)
-- [Remote \(link to the github or others\)](#remote-link-to-the-github-or-others)
+- [Remote (link to the github or others)](#remote-link-to-the-github-or-others)
   - [Set up a github account](#set-up-a-github-account)
   - [password caching](#password-caching)
 
